@@ -1,0 +1,25 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "nodejs static web server",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "chalk": "^2.3.2",
+    "eslint": "^4.18.2",
+    "pre-commit": "^1.2.2",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangmuye/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangmuye/anydoor/issues"
+  },
+  "homepage": "https://github.com/zhangmuye/anydoor#readme"
+}
